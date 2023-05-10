@@ -1,4 +1,4 @@
-Algoritmo Medias_aritmeticas_n_valores
+Algoritmo media_aritmetica_mejorado
 	
 	Algoritmo Promedio
 	Repetir
